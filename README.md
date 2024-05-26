@@ -7,12 +7,6 @@ Imagera is a web application designed for image manipulation, allowing users to 
 ## Features
 
 - **Image Upload:** Users can upload their own images to the application.
-- **Image Filters:** Various filters can be applied to the images, including:
-  - Grayscale
-  - Sepia
-  - Invert
-  - Brightness
-  - Contrast
 - **Image Download:** Users can download the edited images to their local device.
 
 ## Getting Started
