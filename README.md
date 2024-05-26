@@ -4,8 +4,6 @@
 
 Imagera is a web application designed for image manipulation, allowing users to upload images, apply various filters, and download the edited images. It is built using HTML, CSS, and JavaScript.
 
--![Preview](C:\Users\Kundrapu Pavan Kumar\Pictures\Screenshots\Screenshot 2024-05-26 221130.png)
-
 
 ## Features
 
