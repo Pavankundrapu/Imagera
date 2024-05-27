@@ -63,9 +63,3 @@ We welcome contributions from the community! To contribute:
    git push origin feature-branch
    ```
 5. Open a Pull Request on the original repository.
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
